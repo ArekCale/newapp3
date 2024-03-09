@@ -9,6 +9,7 @@ function App() {
     <>
     <div className='contener'>
       Arek
+      <p>Welcome </p>
     </div> 
     </>
   )
